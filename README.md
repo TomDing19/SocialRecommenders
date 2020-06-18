@@ -1,9 +1,9 @@
-# Additional Files 
+# Research on Social Recommenders
 
-This folder contains additional codes used in experimentation apart from the source code taken from https://github.com/Coder-Yu/RecQ
+This folder contains codes used in experimentation apart from the source code taken from https://github.com/Coder-Yu/RecQ
 
 ## Files
-**Data Generation** : This folder contains the code used to generated TwitterEgo social rating network dataset from Twitter data
+**Data Generation** : This folder contains the code used to generated TwitterEgo social rating network dataset from [Twitter](https://snap.stanford.edu/data/egonets-Twitter.html) data
 
 **HyperParameterTuning**: Contains sample code used for tuning hyperparameters discussed in the paper
 
