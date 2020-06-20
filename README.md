@@ -7,10 +7,10 @@
 
 ## Introduction<a name="introduction"></a>
 This project tries to evaluate the performance of SocialMF [1] and SocialFD [2]. More accurately, the contributions of this project are:
-• Create a new large dataset, extending a prior dataset called TwitterEgo [3], with high quality social circle information extracted from Twitter
-• Perform extensive experiments on the SocialMF and SocialFD algorithms with the datasets that these algorithms were tested on and our new dataset
-• Compare the results of these experiments based on the evaluation metrics including Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE)
-• Investigate the performance of these two models when there is no trust between any users i.e., the number of trust statements is 0
+- Create a new large dataset, extending a prior dataset called TwitterEgo [3], with high quality social circle information extracted from Twitter
+- Perform extensive experiments on the SocialMF and SocialFD algorithms with the datasets that these algorithms were tested on and our new dataset
+- Compare the results of these experiments based on the evaluation metrics including Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE)
+- Investigate the performance of these two models when there is no trust between any users i.e., the number of trust statements is 0
 
 This folder contains codes used in experimentation apart from the source code taken from https://github.com/Coder-Yu/RecQ
 
