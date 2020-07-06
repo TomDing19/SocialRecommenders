@@ -13,3 +13,5 @@ consumer_secret = ""
 access_key = ""
 access_secret = ""
 ```
+
+TODO: Add more details about data generation
